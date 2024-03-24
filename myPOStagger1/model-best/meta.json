@@ -53,8 +53,8 @@
 
   ],
   "performance":{
-    "tag_acc":0.9354815466,
-    "tok2vec_loss":139.1057324409,
-    "tagger_loss":1687.012799263
+    "tag_acc":0.9362100773,
+    "tok2vec_loss":123.230445765,
+    "tagger_loss":1393.5473756343
   }
 }
